@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Debugger",
+		"Emmet",
+		"Function Name Display",
+		"GDScript (Godot Engine)",
+		"Git",
+		"GitGutter",
+		"LSP",
+		"Lua Dev",
+		"Lua Love",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+	],
+}
