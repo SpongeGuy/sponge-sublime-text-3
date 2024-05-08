@@ -4,11 +4,16 @@
 		"GitGutter",
 		"Vintage",
 	],
-	"color_scheme": "Monokai.sublime-color-scheme",
+	"color_scheme": "Umber.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
 	"font_size": 10,
 	"font_face": "Consolas",
 	"index_files": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc, text",
+	"save_on_focus_lost": true,
+	"highlight_line": true,
+	"caret_style": "phase",
+	"always_show_minimap_viewport": true,
+	
 }
