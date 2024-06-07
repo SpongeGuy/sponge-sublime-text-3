@@ -5,7 +5,7 @@
     { // "rgb(210, 180, 110)"
         "black":    "hsl(0, 0%, 0%)",
         "black2":   "hsl(12, 25, 12)",          // selection border
-        "black3":   "rgb(20, 26, 8)",           // background color
+        "black3":   "rgb(20, 28, 12)",           // background color
         "blue":     "rgb(142, 47, 24)",         // function call
         "grey":     "hsla(55, 8%, 31%, 0.7)",
         "orange":   "hsl(32, 98%, 56%)",        // parameters

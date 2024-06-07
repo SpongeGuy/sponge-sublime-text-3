@@ -2,11 +2,11 @@
 {
 	"variables":
 	{
-		"font_face": "Consolas",
-		"font_size_sm": 11,
-		"font_size": 12,
-		"font_size_lg": 10,
-		"font_size_title": 24,
+		"font_face": "CozetteVector",
+		"font_size_sm": 13,
+		"font_size": 13,
+		"font_size_lg": 13,
+		"font_size_title": 13,
 
 		"dark_bg": "color(var(--background) blend(white 85%))",
 		"medium_dark_bg": "color(var(--background) blend(black 60%))",

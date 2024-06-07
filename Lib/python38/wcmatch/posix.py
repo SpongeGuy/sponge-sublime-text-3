@@ -1,4 +1,6 @@
 """Posix Properties."""
+from __future__ import annotations
+
 unicode_posix_properties = {
     "^alnum": "\x00-\x2f\x3a-\x40\x5c\x5b-\x60\x7b-\U0010ffff",
     "^alpha": "\x00-\x40\x5b-\x60\x7b-\U0010ffff",
@@ -62,7 +64,7 @@ ascii_posix_properties = {
 }
 
 
-def get_posix_property(value, limit_ascii=False):
+def get_posix_property(value: str, limit_ascii: bool = False) -> str:
     """Retrieve the POSIX category."""
 
     try:
@@ -70,5 +72,5 @@ def get_posix_property(value, limit_ascii=False):
             return ascii_posix_properties[value]
         else:
             return unicode_posix_properties[value]
-    except Exception:  # pragma: no cover
-        raise ValueError("'{} is not a valid posix property".format(value))
+    except Exception as e:  # pragma: no cover
+        raise ValueError("'{} is not a valid posix property".format(value)) from e

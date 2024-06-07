@@ -7,7 +7,8 @@
 	"color_scheme": "Hero.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
 	"font_size": 10,
-	"font_face": "Consolas",
+	
+	"font_face": "CozetteVector",
 	"index_files": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc, text",
