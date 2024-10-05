@@ -5,22 +5,22 @@
     { //"rgb(54, 70%, 68%)"
         "black": "hsl(0, 0%, 0%)",
         "black2": "hsl(60, 17%, 11%)",          // selection border
-        "black3": "rgb(25, 30, 19)",            // background color
-        "blue": "rgb(244, 81, 58)",           // function call
+        "black3": "rgb(30, 26, 19)",            // background color
+        "blue": "rgb(200, 10, 20)",           // function call
         "grey": "hsla(55, 8%, 31%, 0.7)",
         "orange": "hsl(32, 98%, 56%)",          // parameters
         "orange2": "hsl(30, 83%, 34%)",
         "orange3": "hsl(47, 100%, 79%)",
-        "purple": "rgb(100, 100, 107)",        // built-in values
+        "purple": "rgb(255, 255, 255)",        // built-in values
         "red": "hsl(0, 93%, 59%)",
-        "red2": "rgb(140, 110, 70)",           // keywords
+        "red2": "rgb(200, 100, 10)",           // keywords
         "white": "hsl(0, 0%, 97%)",
         "white2": "hsl(60, 36%, 96%)",
-        "white3": "rgb(244, 199, 142)",          // default white text
-        "yellow": "rgb(193, 125, 58)",          // parameters & settings text
-        "yellow2": "rgb(206, 252, 0)",         // function definition
+        "white3": "rgb(244, 199, 80)",          // default white text
+        "yellow": "rgb(180, 125, 58)",          // parameters & settings text
+        "yellow2": "rgb(140, 120, 200)",         // function definition
         "yellow3": "hsl(60, 12%, 79%)",
-        "yellow4": "hsl(55, 11%, 22%)",
+        "yellow4": "rgb(25, 10, 10)",         // selection color
         "yellow5": "hsl(50, 11%, 41%)",
     },
     "globals":
